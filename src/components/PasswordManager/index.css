@@ -1,0 +1,91 @@
+.bg-container {
+  background-color: #9ba9eb;
+  padding: 40px;
+  height: 100vh;
+}
+.last-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.checkbox {
+  align-self: flex-end;
+  margin: 20px;
+}
+.logo {
+  height: 60px;
+  width: 100px;
+  margin: 20px;
+}
+.logo-container {
+  display: flex;
+}
+.heading {
+  color: #fff;
+}
+.input {
+  margin: 5px;
+  padding: 5px;
+  width: 100%;
+}
+.password-list-container {
+  background-color: #5763a5;
+  width: 80%;
+  margin: 20px;
+  border-radius: 10px;
+}
+.form-container {
+  background-color: #454f84;
+  border-radius: 10px;
+  padding: 10px;
+}
+.headings-container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text {
+  color: #fff;
+}
+.hr-line {
+  width: 80%;
+  color: #64748b;
+}
+.no-passwords-img {
+  height: 100px;
+  width: 100px;
+}
+.card {
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #5763a5;
+  padding: 20px;
+  width: 80%;
+  margin: 20px;
+}
+.password-manager-img {
+  height: 200px;
+  width: 200px;
+}
+.count-zero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 180px;
+}
+.button {
+  align-self: flex-end;
+  margin: 10px;
+}

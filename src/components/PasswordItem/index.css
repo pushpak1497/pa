@@ -1,0 +1,27 @@
+.item-container {
+  border: 3px solid #b6c3ca;
+  display: flex;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.button1 {
+  border: none;
+  background: transparent;
+}
+.initial {
+  border-radius: 50px;
+  background-color: #f97316;
+  padding: 10px;
+  margin: 10px;
+  color: #fff;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.icon1 {
+  height: 15px;
+}
